@@ -1,4 +1,4 @@
 ## To run
 
-npm install  
+npm install
 npx webpack-dev-server
